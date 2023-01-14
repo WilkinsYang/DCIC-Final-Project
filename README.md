@@ -13,7 +13,7 @@ The system architecture is as follows:
 ## Performance comparison
 1. SQNR comparison
 |Type|6 bits|8 bits|10 bits|
-|-|-|-|-|
+|---|---|---|---|
 |Radix-2 FFT|14.201 dB|19.497 dB|21.194 dB|
 |Radix-4 FFT|None |None |None |
 
