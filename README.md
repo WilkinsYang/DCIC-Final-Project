@@ -53,4 +53,4 @@ The simulation reaults is as follows:
 ![image](https://i.imgur.com/PwQ8yHE.png)
 
 ## Conclusion
-Both radix-2 and radix-4 FFT has its pros and cons. Radix-2 is more flexible for hardware implementation (e.g., pipeline architecture). However, it has more stage than radix-4 FFT, which enhance the quantize noise and thus degrade the performance. Radix-4 FFT has smaller area cost and a lower quantize noise. Nevertheless, the hardware implementation is more restricted. Therefore, it is a tradeoff between choosing radix-2 or radix-4 FFT, both architecture is a good option for different application scenarios.
+Both radix-2 and radix-4 FFT has its pros and cons. Radix-2 is more flexible for hardware implementation (e.g., pipeline architecture). However, it has more stage than radix-4 FFT, which enhance the quantize noise and thus degrade the performance. Radix-4 FFT has smaller computation cost and a lower quantize noise. Nevertheless, the hardware implementation is more restricted. Therefore, it is a tradeoff between choosing radix-2 or radix-4 FFT, both architecture is a good option for different application scenarios.
