@@ -1,5 +1,5 @@
 # DCIC-Final-Project
-Radix-2 1024-points FFT and Radix-4 1024-points FFT implementation
+Radix-2 1024-points FFT and Radix-4 1024-points FFT implementation.
 ## Radix-2 FFT
 The system architecture is as follows:
 ![image](https://i.imgur.com/eLbj0ch.jpg)
